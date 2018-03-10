@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+US,43,71000,No
+UK,28,48000,Yes
+Japan,30,54000,No
+UK,38,60000,No
+Japan,40,,Yes
+US,34,58000,Yes
+UK,,53000,No
+US,46,79000,Yes
+Japan,50,83000,No
+US,37,66000,Yes
